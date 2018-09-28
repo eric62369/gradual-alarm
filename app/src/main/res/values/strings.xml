@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tMOEAlarm</string>
+    <string name="create_alarm_button_text">Create Alarm</string>
+    <string name="alarm_information_text">Alarm Time</string>
+
+    <string name="AM">AM</string>
+    <string name="PM">PM</string>
+    <string name="wake_up">Wake Up!</string>
+    <string name="stop_alarm">Stop Alarm</string>
+    <string name="alarm_cancelled">Alarm Cancelled</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+
+    <string name="alarm_active_activity_null_intent">ERROR: No alarm extras found in AlarmActiveActivity class.</string>
+    <string name="alarm_active_activity_no_extras">ERROR: NULL alarm intent in AlarmActiveActivity class.</string>
+
+</resources>
